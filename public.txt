@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 12345
+=======
+dasdadasdxczxv
+sdfs
+dsf
+assfdsgsfsdg
+>>>>>>> 7b01a83a692a31a634b72ce37fa28ffd78636891
